@@ -11,6 +11,10 @@ With the aim of gradually leading its users towards the "virtualization" of thei
 
 Little by little, the addition of other catalogues and/or services (such as the automation of architectural calculations, the centralization of land registry, layout designs, comparisons of manufacturer specifications, customer opinions, etc.) will be able to enhance this application, offering its users the possibility to buy their ready-to-use real estate directly from their smartphone.
 
+Tell us how you plan on bringing it to life. 
+----------------------
+
+We are currently at the idea stage. We think that only Google can afford to hope for such a success of this application, thanks to the popularity of Google Maps that will naturally lead people to these new features, offered by the application. But who will lead them gradually to take in hand other services less known to the general public such as Google Measure and ARcore.
 
 Tell us about you. 
 ---------------------
